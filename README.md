@@ -40,7 +40,7 @@ To run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/little-lemon.git
+   git clone https://github.com/AFRIN-1805/Little-Lemon-Restaurant-.git
    ```
 
 2. Navigate into the project directory:
